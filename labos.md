@@ -47,6 +47,7 @@ Pas de labos
 - Lab : Setting up secrets in the pipeline with azure key vault
 - Lab : Controlling Deployments using Release Gates - https://azuredevopslabs.com/labs/vstsextend/releasegates/
 - Lab : Creating a release dashboard
+- Lab : Automating Selenium Tests in Azure Pipelines - https://www.azuredevopslabs.com/labs/vstsextend/Selenium/
 
 ## Module 12
 - Lab : Feature Flag Management with LaunchDarkly and AzureDevOps - https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/
