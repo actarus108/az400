@@ -34,3 +34,12 @@ Lab : Managing Technical Debt with Azure DevOps and SonarCloud -https://www.azur
 ## Module 8
 Demo : Create an Azure Container Registry - https://www.youtube.com/watch?v=IWbDG9cXa6s
 Demo : Add Docker Support to an Existing Application - https://www.youtube.com/watch?v=pYkQjmUsA-8
+Lab : 
+
+## Module 9
+
+##Module 10
+
+## Module 11
+
+## Module 12
