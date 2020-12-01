@@ -82,6 +82,8 @@ https://azure.microsoft.com/en-gb/services/blueprints/
 
 https://azure.microsoft.com/en-gb/features/resource-graph/
 
+## Module 7 ##
+
 https://sonarcloud.io/
 
 https://www.ndepend.com/
