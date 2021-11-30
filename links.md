@@ -1,4 +1,35 @@
-## Module 4 ##
+## Module 1
+
+https://www.donovanbrown.com/post/what-is-devops
+
+https://docs.microsoft.com/en-us/devops/what-is-devops
+
+https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+
+https://marketplace.visualstudio.com/items?itemName=solidify.jira-devops-migration
+
+https://marketplace.visualstudio.com/items?itemName=spartez.tfs4jira
+
+## Module 2
+
+https://git-lfs.github.com/
+
+https://gitforwindows.org/
+
+## Module 3
+
+https://sonarcloud.io/
+
+https://www.ndepend.com/
+
+https://www.ndepend.com/
+
+## Module 4
+
+https://gitforwindows.org/
+
+
+# TO REVIEW
 
 https://docs.microsoft.com/en-us/azure/devops/artifacts/collaborate-with-packages?view=azure-devops&viewFallbackFrom=vsts
 
@@ -54,7 +85,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/proxy?view=azure-
 
 https://github.com/SteveLasker/AspNetCoreMultiProject
 
-## Module 6 ##
+## Module 6
 
 https://azure.microsoft.com/en-us/resources/templates/101-sql-injection-attack-prevention/
 
@@ -82,7 +113,7 @@ https://azure.microsoft.com/en-gb/services/blueprints/
 
 https://azure.microsoft.com/en-gb/features/resource-graph/
 
-## Module 7 ##
+## Module 7
 
 https://sonarcloud.io/
 
