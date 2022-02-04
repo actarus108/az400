@@ -1,4 +1,4 @@
-## Module 1
+## Learning Path 1
 
 https://www.donovanbrown.com/post/what-is-devops
 
@@ -10,48 +10,17 @@ https://marketplace.visualstudio.com/items?itemName=solidify.jira-devops-migrati
 
 https://marketplace.visualstudio.com/items?itemName=spartez.tfs4jira
 
-## Module 2
-
 https://git-lfs.github.com/
 
 https://gitforwindows.org/
 
-## Module 3
+Migrating from TFVC to Git : https://www.youtube.com/watch?v=QsJdFkMKLN0
 
-https://sonarcloud.io/
-
-https://www.ndepend.com/
-
-https://www.ndepend.com/
-
-## Module 4
+## Learning Path 2
 
 https://gitforwindows.org/
 
-
-# TO REVIEW
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/collaborate-with-packages?view=azure-devops&viewFallbackFrom=vsts
-
-https://docs.microsoft.com/en-us/nuget/what-is-nuget
-
-https://docs.npmjs.com/about-packages-and-modules
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/concepts/upstream-sources?view=azure-devops
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/concepts/package-graph?view=azure-devops
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-nuget?view=azure-devops&tabs=new-nav&viewFallbackFrom=vsts
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-npm?view=azure-devops&tabs=windows&viewFallbackFrom=vsts
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-maven?view=azure-devops&tabs=new-nav&viewFallbackFrom=vsts
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops&tabs=new-nav&viewFallbackFrom=vsts
-
-https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/universal-packages?view=azure-devops&tabs=azuredevops&viewFallbackFrom=vsts
-
-## Module 5 ## 
+## Learning Path 3
 
 https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&viewFallbackFrom=vsts&tabs=browser
 
@@ -85,8 +54,6 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/proxy?view=azure-
 
 https://github.com/SteveLasker/AspNetCoreMultiProject
 
-## Module 6
-
 https://azure.microsoft.com/en-us/resources/templates/101-sql-injection-attack-prevention/
 
 https://azure.microsoft.com/en-gb/blog/enhance-your-devsecops-practices-with-azure-security-center-s-newest-playbooks/
@@ -113,7 +80,9 @@ https://azure.microsoft.com/en-gb/services/blueprints/
 
 https://azure.microsoft.com/en-gb/features/resource-graph/
 
-## Module 7
+## Learning Path 4
+
+## Learning Path 5
 
 https://sonarcloud.io/
 
@@ -130,3 +99,43 @@ https://marketplace.visualstudio.com/items?itemName=fortifyvsts.hpe-security-for
 https://marketplace.visualstudio.com/items?itemName=checkmarx.cxsast
 
 https://cve.mitre.org/about/
+
+## Learning Path 6
+
+## Learning Path 7
+
+## Learning Path 8
+
+## Learning Path 9
+
+## Learning Path 10
+
+https://sonarcloud.io/
+
+https://www.ndepend.com/
+
+https://www.ndepend.com/
+
+# TO REVIEW
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/collaborate-with-packages?view=azure-devops&viewFallbackFrom=vsts
+
+https://docs.microsoft.com/en-us/nuget/what-is-nuget
+
+https://docs.npmjs.com/about-packages-and-modules
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/concepts/upstream-sources?view=azure-devops
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/concepts/package-graph?view=azure-devops
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-nuget?view=azure-devops&tabs=new-nav&viewFallbackFrom=vsts
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-npm?view=azure-devops&tabs=windows&viewFallbackFrom=vsts
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-maven?view=azure-devops&tabs=new-nav&viewFallbackFrom=vsts
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops&tabs=new-nav&viewFallbackFrom=vsts
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/universal-packages?view=azure-devops&tabs=azuredevops&viewFallbackFrom=vsts
+
+
