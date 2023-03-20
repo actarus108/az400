@@ -5,6 +5,7 @@ N'hésitez pas à nous contacter en précisant la session de formation que vous 
 
 - Contact : Fabien Rico 
   - Email : fabien.rico@bluesoft-group.com
+ 
 - Formateur : Yannick Willi
   - Email : yannick.willi@bluesoft-group.com
 
